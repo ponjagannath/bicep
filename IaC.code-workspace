@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"name": "neu-one-da-accelerator-IaC",
+		"path": "../ODP-IaC/neu-one-da-accelerator-IaC"
+	}
+],
+  "settings": {}
+}
